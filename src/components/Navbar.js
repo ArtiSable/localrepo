@@ -4,7 +4,7 @@ class Navbar extends React.Component {
     state = {  } 
     render() { 
         return (
-            <h1>This is navbar</h1>
+            <h1>This is Upadated Navbar</h1>
         );
     }
 }
